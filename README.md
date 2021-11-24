@@ -1,9 +1,14 @@
 #参考：
 pt-table-checksum
+
 https://www.cnblogs.com/gered/p/12882447.html
+
 https://www.cnblogs.com/zping/p/14649275.html
+
 sync-diff-inspector
+
 https://zhuanlan.zhihu.com/p/353067400#:~:text=sync_dif,%E6%8D%AE%E6%9C%AC%E8%BA%AB%E8%BF%9B%E8%A1%8C%E6%A0%A1%E9%AA%8C%E3%80%82
+
 https://docs.pingcap.com/zh/tidb/stable/sync-diff-inspector-overview
 
 # tidb-tools
